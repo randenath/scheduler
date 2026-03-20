@@ -1,7 +1,7 @@
 # scheduler# CS441/541 Scheduling Project
 
 ## Author(s):
-Mr. Rohan Hari
+Mr. Rohan H
 
 
 ## Date:
