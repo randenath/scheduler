@@ -1,6 +1,6 @@
 /*Scheduler Program.
  *
- *Author: Rohan Hari
+ *Author: Rohan H
  *Last Modified: 02/18/26 
  *
  * CS 441/541: CPU Scheduler
